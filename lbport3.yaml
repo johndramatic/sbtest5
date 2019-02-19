@@ -13,4 +13,4 @@ parameters:
     type: tcp-port
     gui:
       updatable: false
-    default: 23
+    default: 21
